@@ -11,3 +11,6 @@ def joke():
 def introduce():
     name = input("Whats your name?")
     print("Hello", name)
+
+def shout():
+    print('ARGRGRHHHHHH')
