@@ -9,6 +9,5 @@ def joke():
     print('Nie znam żartów')
 
 def introduce():
-    a = 1
-    if a > 0:
-        print('A większe od zera')
+    name = input("Whats your name?")
+    print("Hello", name)
