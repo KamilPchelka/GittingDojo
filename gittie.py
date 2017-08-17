@@ -8,3 +8,6 @@ def add():
 def joke():
     print('Nie znam żartów')
 
+def introduce():
+    name = input("Whats your name?")
+    print("Hello", name)
